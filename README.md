@@ -1,6 +1,6 @@
 #  MMF
 
-[GitHub](https://github.com/Rongqi-fl/)
+[GitHub]([https://github.com/Rongqi-fl](https://github.com/Rongqi-fl/MMF-DTI/)
 
 ##  Dependencies
   
